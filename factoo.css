@@ -1,0 +1,32 @@
+body {
+    background-image: url(inf.jpg);
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #141ee39f;
+}
+
+button {
+    background-color: #141DE3;
+    color: azure;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.titulos {
+    text-align: center;
+    color: bisque;
+}
+
+.respuesta {
+    background-color: #1950d179;
+    color: black;
+    padding: 16px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+}
